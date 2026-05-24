@@ -48,7 +48,7 @@ Recherche rapide selon différents critères avec un chatbot.
 
 ## Structure du projet
 
-## 📂 Structure du projet
+##  Structure du projet
 
 ```txt
 src/              # Contient l’ensemble du code source
@@ -78,11 +78,11 @@ npm install
 npm run dev
 ```
 
-## 📸 Aperçu de l'application
+##  Aperçu de l'application
 
 ### Dashboard principal
 
-![Dashboard](screenshot2.png)
+![Dashboard](dashbord.png)
 ![Dashboard](screenshot3.png)
 ![Dashboard](screenshot1.png)
 
