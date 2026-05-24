@@ -137,8 +137,7 @@ function Dashboard() {
       </motion.header>
 
       <div className="flex justify-end">
-  <Link
-    to="/reservation"
+  <Link to="/reservation"
     className="rounded-2xl px-5 py-3 bg-primary text-white font-semibold"
   >
     Réservation Transport
